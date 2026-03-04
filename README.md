@@ -14,6 +14,7 @@ This repository contains the implementation of various **Machine Learning algori
 * Jupyter Notebook / Google Colab
 ----------------------
 ## PROGRAM CODE OUTPUTS 
+💡 THE OUTPUTS OF THE ALL CODES WILL BE PRESENT IN THIS GOOGLE COLAB CHECK IT OUT⬇️ 
 [ML_LAB.ipynb](https://github.com/user-attachments/files/25741011/ML_LAB.ipynb)
 
 ## 👨‍💻 Author
@@ -21,7 +22,6 @@ This repository contains the implementation of various **Machine Learning algori
 **Goutham**
 
 Electronics and Communication Engineering Student
-Machine Learning Laboratory
 
 ---
 
