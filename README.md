@@ -19,7 +19,7 @@ This repository contains the implementation of various **Machine Learning algori
 
 ## 👨‍💻 Author
 
-**Goutham**
+**GODUGULA GOUTHAM**
 
 Electronics and Communication Engineering Student
 
